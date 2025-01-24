@@ -1,6 +1,7 @@
-# I am Deepak Prakash and I welcome you to my github
+# Deepak Prakash
 
-## About Me
-I am currently working as a software engineer at Flipkart. I pursued B.tech in Computer science (AI) from Netaji Subash University of Technology Delhi. I had experience in working as a software developer in ION and as a backend developer in winzo games. I am interested in AI specially deep neural networks. I love challenges and is always ready to find out the most simple and effective solutions for them. My skills include python, django, flask, react js and tensorflow.
+SDE at Flipkart. Pursued Computer Science and Engineering (Artificial Intelligence) from NSUT.
 
-I love watching and playing cricket and am also very fond of travelling and visiting to new places. I always want to explore whether it is new things or new technologies.
+My passion lies in Artificial Intelligence, particularly in deep neural networks. I thrive on challenges and am dedicated to crafting simple and effective solutions for complex problems.
+
+Beyond work, I enjoy watching and playing cricket, traveling, and exploring new places. I have a keen interest in discovering new technologies and ideas, embracing every opportunity to broaden my horizons.
